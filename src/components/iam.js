@@ -1,4 +1,3 @@
-import $ from 'jquery';
 import React, { useState, useEffect } from 'react';
 
 

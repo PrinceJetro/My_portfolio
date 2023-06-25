@@ -14,7 +14,7 @@ export default function About(props){
                 <img src='https://avatars.githubusercontent.com/u/114796977?v=4' width={165} height={165}/>
                 </div>
                 <div className=' col-lg-8'>
-                <a href='https://drive.google.com/file/d/10r2fZI4apZqK47dpCIbp5NEzExcQ57CW/view?usp=drive_link'><button className='btn btn-primary'>Download Resume</button></a> <br/>
+                <a target='_blank' href='https://drive.google.com/file/d/10r2fZI4apZqK47dpCIbp5NEzExcQ57CW/view?usp=drive_link'><button className='btn btn-primary'>Download Resume</button></a> <br/>
                     <h3><span className='title'> Name:</span>  <span className='answers'>Adegbuyi Jephthah</span></h3>
                     <h3><span className='title'> Profile:</span> <span className='answers'>Jnr FullStack Developer</span></h3>
                     <h3><span className='title'> Email:</span> <span className='answers'><a href="mailto: adegbuyijephthah@gmail.com">adegbuyijephthah@gmail.com</a></span></h3>
@@ -27,7 +27,7 @@ export default function About(props){
                 <Progress title="Python" percent={70} />              
                 <Progress title="Django" percent={65} />                   
                 <Progress title="Postgres SQL" percent={80} />                   
-                <Progress title="Flask" percent={45} />                   
+                <Progress title="Microsoft" percent={85} />                   
                             
                                  
                 </div>

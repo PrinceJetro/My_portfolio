@@ -8,7 +8,7 @@ export default function Portfolio(props){
     return (        
         <div className="portfolio">
             <h1>PORTFOLIO</h1>
-            <p>Below are some of the projects i have worked on, Click on them to be redirected to the deployed site</p>
+            <p>Here are some of the projects i have worked on. Please select the project name to be redirected to its deployed website</p>
             <hr/>
             <div className='d-flex flex-wrap'>
             <Project title="Social Media Web Application"  img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdCxC50deMA_zlCtCbq1OSpmwzNU6zzHQNaA&usqp=CAU" link="https://jetrostagram.vercel.app" />

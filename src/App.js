@@ -10,6 +10,7 @@ import Footer from './components/footer';
 
 
 export default function App(props){
+    alert("Yoooo")
     return (
         <div className='container-fluid'>
            < Navbar/>

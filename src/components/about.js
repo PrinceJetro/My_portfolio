@@ -11,7 +11,7 @@ export default function About(props){
            <div className='row main'>
             <div className="col-md-6 row "> 
                 <div className=' col-lg-4 '>
-                <img src='https://avatars.githubusercontent.com/u/114796977?v=4' width={165} height={165}/>
+                <img src='https://scontent.flos2-2.fna.fbcdn.net/v/t39.30808-6/236183688_520439375924010_6251770401037886271_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeG46pvz_IcztbY7QrrPi32Q1bVl109wXt3VtWXXT3Be3TSda__gvAdpZbYFGFOuK4auN0l3A22EpKRhEpWwO3LL&_nc_ohc=LoK-2by8lmsAX9HVNM8&_nc_zt=23&_nc_ht=scontent.flos2-2.fna&oh=00_AfDRmVCQdHsvKLY3P9c3WucLja0SrzTY9tqp1OqCsTF64A&oe=651473AE' width={165} height={165}/>
                 </div>
                 <div className=' col-lg-8'>
                 <a target='_blank' href='https://drive.google.com/file/d/10r2fZI4apZqK47dpCIbp5NEzExcQ57CW/view?usp=drive_link'><button className='btn btn-primary'>Download Resume</button></a> <br/>

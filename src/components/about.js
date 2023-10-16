@@ -11,7 +11,7 @@ export default function About(props){
            <div className='row main'>
             <div className="col-md-6 row "> 
                 <div className=' col-lg-4 '>
-                <img src='https://scontent.flos2-2.fna.fbcdn.net/v/t39.30808-6/236183688_520439375924010_6251770401037886271_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeG46pvz_IcztbY7QrrPi32Q1bVl109wXt3VtWXXT3Be3TSda__gvAdpZbYFGFOuK4auN0l3A22EpKRhEpWwO3LL&_nc_ohc=LoK-2by8lmsAX9HVNM8&_nc_zt=23&_nc_ht=scontent.flos2-2.fna&oh=00_AfDRmVCQdHsvKLY3P9c3WucLja0SrzTY9tqp1OqCsTF64A&oe=651473AE' width={165} height={165}/>
+                <img src='https://scontent.flos3-2.fna.fbcdn.net/v/t39.30808-6/260903207_582699239698023_8662360774569197883_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEwgw5WxelB2eiR9aXVRbcD9M7_wI64QWP0zv_AjrhBYwRj6EKLAzpS8yb4moZsKbk-xV_RDXAEicVUSkzAC8wL&_nc_ohc=kSIMjmJZaw4AX_Tuo2u&_nc_zt=23&_nc_ht=scontent.flos3-2.fna&oh=00_AfD0t4VzUEvULo2I00W4oL9mWLlrC41XQhrETf0iWgjJxg&oe=6532082F' width={165} height={200}/>
                 </div>
                 <div className=' col-lg-8'>
                 <a target='_blank' href='https://drive.google.com/file/d/10r2fZI4apZqK47dpCIbp5NEzExcQ57CW/view?usp=drive_link'><button className='btn btn-primary'>Download Resume</button></a> <br/>
